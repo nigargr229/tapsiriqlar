@@ -1,0 +1,7 @@
+li{
+    cursor: pointer;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 2px solid silver !important;
+}
